@@ -1,5 +1,5 @@
 # Genesis
-Code is based on RabbitMq tutorial
+The code is based on the RabbitMq tutorial 
 
 [About tutorial](https://www.rabbitmq.com/tutorials)
 
